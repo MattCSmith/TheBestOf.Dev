@@ -10,6 +10,6 @@ Your input is not just welcomed but essential to the evolution of this project. 
 
 ## COLLECTIONS
 
-- 🆕 [Development Youtubers](Development-Youtubers.md)
+- 🆕 [Development Youtubers](Development_Youtubers.md)
 
 (Looking for a different collection? Create an issue or engage with an existing issue)
